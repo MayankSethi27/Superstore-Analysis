@@ -1,5 +1,5 @@
 # Superstore-Analysis
-🛒 Superstore Analysis
+# 🛒 Superstore Analysis
 
 This project analyzes the sales performance, customer behavior, and operational efficiency of a superstore dataset using Python and Jupyter Notebook.
 
